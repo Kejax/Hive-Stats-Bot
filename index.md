@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Hive Stats Bot!
 
-You can use the [editor on GitHub](https://github.com/Kejax/Hive-Stats-Bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+With this Bot you can view your statistics of the Minecraft Hive Bedrock server
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
